@@ -1,0 +1,17 @@
+{
+	"TARGET_PRICES": {
+		"Beast Memento": 0.03,
+		"Plant Memento": 0.02,
+		"Dawn Memento": 0.03,
+		"Dusk Memento": 0.01,
+		"Mech Memento": 0.01,
+		"Aquatic Memento": 0.015,
+		"Bird Memento": 0.03,
+		"Bug Memento": 0.03,
+		"Reptile Memento": 0.04,
+		"Radiant Spirit Shell": 1,
+		"Atia Original Crystal": 10
+	},
+	"GAS_MULTIPLIER": [1.5, 2.0],
+	"RPC_URL": "https://api.roninchain.com/rpc"
+}

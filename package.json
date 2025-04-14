@@ -1,0 +1,22 @@
+{
+	"name": "os-ron",
+	"module": "index.ts",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"start": "bun run src/main.ts",
+		"format": "prettier --write \"**/*.{js,jsx,ts,tsx}\""
+	},
+	"devDependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^5.2.2",
+		"@types/bun": "^1.2.9",
+		"prettier": "^3.5.3"
+	},
+	"peerDependencies": {
+		"typescript": "^5.8.2"
+	},
+	"dependencies": {
+		"web3": "^4.16.0",
+		"winston": "^3.17.0"
+	}
+}
